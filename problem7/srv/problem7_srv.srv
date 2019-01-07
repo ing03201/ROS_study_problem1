@@ -1,0 +1,5 @@
+string fpath
+string direct
+
+---
+bool state
