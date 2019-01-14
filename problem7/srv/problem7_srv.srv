@@ -1,0 +1,4 @@
+string Fullpath
+string DestinationDirectory
+---
+bool state
